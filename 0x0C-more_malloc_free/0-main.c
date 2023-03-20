@@ -2,11 +2,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>
+<<<<<<< HEAD
 /**
 * main - check the code
 *
 * Return: Always 0.
 */
+=======
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+>>>>>>> d2fcb65a9e0d453ae0744f47d5314ac6d8441845
 int main(void)
 {
     char *c;

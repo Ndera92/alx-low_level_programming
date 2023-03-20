@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #include <stdlib.h> 
+=======
+#include <stdlib.h>
+>>>>>>> d2fcb65a9e0d453ae0744f47d5314ac6d8441845
 #include "main.h"
 /**
 * malloc_checked - allocates memory using malloc
@@ -15,4 +19,7 @@ if (p == NULL)
 exit(98);
 return (p);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> d2fcb65a9e0d453ae0744f47d5314ac6d8441845
